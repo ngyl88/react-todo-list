@@ -1,6 +1,5 @@
 import React from "react";
-import Title from "./Title";        // Notes: variable from Default Export
-//import {Title} from "./Title";    // Notes: variable from Named Export
+import Title from "./Title";
 import Todo from "./Todo";
 
 const TodoList = props => {
